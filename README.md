@@ -1,21 +1,23 @@
 # kodJS
-Useful JS Functions
+EN: Useful JS Functions
+TR: Faydalı JS Fonksiyonları
 
 ## shuffleAR()
-Randomize the order of the elements in the array
+EN: Randomize the order of the elements in the array
+TR: Dizideki elemanların sırasını rastgele seçmek
 
-### Usage
+### Usage / Kullanımı
 ```
 shuffleAR(array)
 ```
 array: javascript array
 
-### Return
+### Return / Dönen Değer
 ```
 array: javascript array
 ```
 
-### Example
+### Example / Örnek
 ```
 var arr = ['a','b','c','d','e','f'];
 arr = shuffleAR(arr);
