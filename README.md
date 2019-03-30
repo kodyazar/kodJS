@@ -8,7 +8,7 @@ TR: Faydalı JS Fonksiyonları
 
 EN: Randomize the order of the elements in the array
 
-TR: Dizideki elemanların sırasını rastgele seçmek
+TR: Dizideki elemanların sırasını rastgele karıştırmak
 
 ### Usage / Kullanımı
 
